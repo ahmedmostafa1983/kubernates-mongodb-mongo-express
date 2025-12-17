@@ -134,22 +134,29 @@ kubectl delete -f mongodb-project/
 ##  Author
 
 ahmed mostafa
-🔹 نسخة مختصرة (لـ CV محدود المساحة)
-Deployed MongoDB + Mongo Express on Kubernetes with AWS EBS storage, Secrets, ConfigMaps, and LoadBalancer.
 
 
-******************************************************************************************************************************************************
-✅ نسخة مفصلة (لـ Projects أو Experience section)
 
-MongoDB & Mongo Express Deployment on Kubernetes
 
-Deployed a MongoDB database with Mongo Express web interface on Kubernetes using AWS EBS for persistent storage.
 
-Managed Secrets for credentials and ConfigMaps for configuration.
 
-Configured StorageClasses, PVCs, PVs, and LoadBalancer Services.
+---
 
-Implemented full Kubernetes lifecycle management including deployment, scaling, and cleanup.
+### ✅ نسخة مفصلة (لـ Projects أو Experience section)
 
+**MongoDB & Mongo Express Deployment on Kubernetes**
+
+* Deployed a MongoDB database with Mongo Express web interface on Kubernetes using AWS EBS for persistent storage.
+* Managed **Secrets** for credentials and **ConfigMaps** for configuration.
+* Configured **StorageClasses, PVCs, PVs, and LoadBalancer Services**.
+* Implemented full Kubernetes lifecycle management including deployment, scaling, and cleanup.
+
+---
+
+### 🔹 نسخة مختصرة (لـ CV محدود المساحة)
+
+* Deployed MongoDB + Mongo Express on Kubernetes with AWS EBS storage, Secrets, ConfigMaps, and LoadBalancer.
+
+---
 
 
